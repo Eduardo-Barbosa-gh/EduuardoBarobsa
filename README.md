@@ -1,4 +1,6 @@
-## Oiii eu sou o Eduardo Barbosa, estudante do Instituto Federal de Ciência e Tecnologia de São Paulo!
+<div text align="center"> Olá, eu sou o Eduardo Barbosa, estudante de ADS no</div>
+<div text align="center"> Instituto Federal de Ciência e Tecnologia de São Paulo! </div>
+
 <div align="center">
   <a href="https://github.com/EduuardoBarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -12,7 +14,7 @@
   <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Eduardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Eduardo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Eduardo-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Eduardo-pic" height="150" style="border-radius:50px;" src="https://instagram.fpoa10-1.fna.fbcdn.net/v/t51.2885-19/236914945_315786340297880_1944817401938208546_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fpoa10-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=5wPSsxSKOskAX-15gSD&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT__6jlyvKq5lH02Go-CMc7NuuBs6yKBf4wvLdl10o_OmA&oe=634600F7&_nc_sid=5cbaad">
 </div>
   
   ##
